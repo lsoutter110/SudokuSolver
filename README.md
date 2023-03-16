@@ -1,3 +1,3 @@
 # SudokuSolver
 
-Basic sudoku solver written in C++.
+Basic sudoku solvers written in C++.
